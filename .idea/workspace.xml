@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a7af34-d8ba-4921-b0fa-adff1a23ef5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparatorUS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/StudentAvgExamScoreComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/StudentComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/StudentCourseComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/StudentFullNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/StudentUniversityIdComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/UniversityComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/UniversityFullNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/UniversityIdComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/UniversityProfileComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/UniversityShortNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comparator/UniversityYearComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/StudentComparatorEnums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/StudyProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/UniversityComparatorEnums.java" afterDir="false" />
-    </list>
+    <list default="true" id="01a7af34-d8ba-4921-b0fa-adff1a23ef5f" name="Changes" comment="creet prog comparator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +61,18 @@
       <option name="presentableId" value="Default" />
       <updated>1689511403086</updated>
     </task>
+    <task id="LOCAL-00001" summary="creet prog comparator">
+      <created>1689842175187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689842175187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creet prog comparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="creet prog comparator" />
   </component>
 </project>
